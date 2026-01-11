@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "changelog": "Add Remote Support, some minor fixes",
+  "version": "1.0.3",
+  "changelog": "switch to lighttpd - some minor fixes",
   "download": "https://fdmr.dynbox.net/images/nanostar_latest.zip"
 }
