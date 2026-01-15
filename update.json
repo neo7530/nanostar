@@ -1,5 +1,5 @@
 {
-  "version": "1.0.31",
-  "changelog": "add DMRHosts.txt support, some minor fixes",
+  "version": "1.0.32",
+  "changelog": "Logbook feature,Full-Backup,auto-backup b4 update, some minor fixes",
   "download": "https://fdmr.dynbox.net/images/nanostar_latest.zip"
 }
