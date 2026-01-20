@@ -1,5 +1,5 @@
 {
-  "version": "1.0.33",
-  "changelog": "dienste-steuerung, firewall, natting, some minor fixes",
+  "version": "1.0.34",
+  "changelog": "udev fuer LTE-Modem, some minor fixes",
   "download": "https://fdmr.dynbox.net/images/nanostar_latest.zip"
 }
