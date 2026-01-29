@@ -1,15 +1,19 @@
 {
   "latest": "1.0.40",
+  "changelog": "Diverse Verbesserungen, Bugfixes und Optimierungen.",
+
   "channels": {
     "1.0": {
       "min": "1.0.0",
       "max": "1.0.99",
-      "download": "https://.../nanostar_latest.zip"
+      "download": "https://fdmr.dynbox.net/images/nanostar_latest.zip"
     },
+
     "1.1": {
       "min": "1.1.0",
       "max": "1.1.99",
-      "download": "https://.../nanostar_1.1_latest.zip"
+      "download": "https://fdmr.dynbox.net/images/nanostar_1.1_latest.zip"
     }
   }
 }
+
