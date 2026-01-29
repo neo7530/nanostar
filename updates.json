@@ -1,0 +1,15 @@
+{
+  "latest": "1.0.40",
+  "channels": {
+    "1.0": {
+      "min": "1.0.0",
+      "max": "1.0.99",
+      "download": "https://.../nanostar_latest.zip"
+    },
+    "1.1": {
+      "min": "1.1.0",
+      "max": "1.1.99",
+      "download": "https://.../nanostar_1.1_latest.zip"
+    }
+  }
+}
