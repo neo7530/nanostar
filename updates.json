@@ -1,6 +1,15 @@
 {
   "latest": "1.0.40",
-  "changelog": "Bugfixes und Optimierungen.",
+  "changelog": "
+  Bugfixes und Optimierungen.
+
+  -FIX: DMRGateway.ini [DMR Network 6] wurde nicht sauber geschrieben
+  -CHANGE: DMR-Dienste-Steuerung jetzt farbig
+  -NEW: Changelog auf der Update-Seite wird jetzt angezeigt
+  -NEW: Reset dür DMR-Gateway und YSFGatway hinzugefügt (Einstellungen => Quicksetup)
+  -CHANGE: Uhrzeit / Datum ist jetzt Systemzeit vom Hotspot
+  
+  ",
 
   "channels": {
     "1.0": {
