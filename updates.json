@@ -1,6 +1,6 @@
 {
   "latest": "1.0.44",
-  "changelog": "Bugfixes und Optimierungen.\n\n-NEW DAPNET\n-NEW: Changelog auf der Update-Seite wird jetzt angezeigt\n-FIX: LTE-Modem wurde von MMDVMHost-Start blockiert, daher kein connect zum Netwerk",
+  "changelog": "Bugfixes und Optimierungen.\n\n-NEW: DAPNET\n-NEW: Changelog auf der Update-Seite wird jetzt angezeigt\n-FIX: LTE-Modem wurde von MMDVMHost-Start blockiert, daher kein connect zum Netwerk",
 
   "channels": {
     "1.0": {
