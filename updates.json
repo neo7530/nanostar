@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.44",
-  "changelog": "Bugfixes und Optimierungen.\n\n-NEW: DAPNET\n-NEW: Changelog auf der Update-Seite wird jetzt angezeigt\n-FIX: LTE-Modem wurde von MMDVMHost-Start blockiert, daher kein connect zum Netwerk",
+  "latest": "1.0.45",
+  "changelog": "Bugfixes und Optimierungen.\n\n-EXTEND: Profile und Backups down-/upload\n-EXTEND: DAPNET-Messages als Mouseover auf Button POCSAG\n-FIX: DAPNET crash wegen start vor Netzwerk\nFIX: Raspi zero 2W - manche Modelle kein WLAN wegen inkompatibilität WPS2/3-Mix\nADD: DAPNET neuer Knopf für änderungen an der Black-/Whitelist\nCHANGE: Dropdowns gehen jetzt nach links auf wg. Darstellung auf Smartphone.\n",
 
   "channels": {
     "1.0": {
