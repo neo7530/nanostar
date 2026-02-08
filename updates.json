@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.45",
-  "changelog": "Bugfixes und Optimierungen.\n\n-EXTEND: Profile und Backups down-/upload\n-EXTEND: DAPNET-Messages als Mouseover auf Button POCSAG\n-FIX: DAPNET crash wegen start vor Netzwerk\n-FIX: Raspi zero 2W - manche Modelle kein WLAN wegen inkompatibilität WPS2/3-Mix\n-ADD: DAPNET neuer Knopf für änderungen an der Black-/Whitelist\n-CHANGE: Dropdowns gehen jetzt nach links auf wg. Darstellung auf Smartphone.\n",
+  "latest": "1.0.46",
+  "changelog": "Bugfixes und Optimierungen.\n\n-ADD: Alle Seiten außer des Dashboards brauchen jetzt eine Anmeldung. Default: Admin / nanostar\n\nACHTUNG: Nach dem Update einmal anmelden und über das Dashboard neu startetn!\n",
 
   "channels": {
     "1.0": {
