@@ -1,6 +1,6 @@
 {
   "latest": "1.0.46",
-  "changelog": "<div style=\"font-size:22px; color:#ff0000; font-weight:bold;\">WICHTIGES UPDATE – BITTE BEACHTEN!</div><br><ul style=\"font-size:16px; color:#cc0000;\"><li>Login‑System überarbeitet</li><li>Sicherheitsfixes eingespielt</li><li>Dashboard‑Optimierungen</li><li>Neustart nach Update erforderlich</li></ul>"
+  "changelog": "<div style=\"font-size:22px; color:#ff0000; font-weight:bold;\">WICHTIGES UPDATE – BITTE BEACHTEN!</div><br><ul style=\"font-size:16px; color:#cc0000;\"><li>Login‑System überarbeitet</li><li>Sicherheitsfixes eingespielt</li><li>Dashboard‑Optimierungen</li><li>Neustart nach Update erforderlich</li></ul>",
 
   "channels": {
     "1.0": {
