@@ -1,6 +1,6 @@
 {
   "latest": "1.0.47",
-  "changelog": "BUGFIXES\n\n-ADD: TNYGPS is in da house!\n\n\nFÜR LARS: diesmal keine versteckten Passwörter ;)\n\nPROST!!!!",
+  "changelog": "BUGFIXES\n\n-ADD: TNYGPS\n-UPDATE: TNYGPS-Setup-Seite überarbeitet\n-ADD: TNYGPS-Log eingebaut\n-UPDATE: GPS wird ausgeblendet, wenn Dienst nicht aktiv\n-ADD: APRS Live-Map\n-UPDATE: Login-Page mit DEUTLICHEM! Hinweis auf Default-Passwort mit der Bitte zum ändern",
 
   "channels": {
     "1.0": {
