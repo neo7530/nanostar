@@ -1,0 +1,36 @@
+{
+  "riddles": [
+    {
+      "question": "Welches Wort steht im zweiten Absatz?",
+      "answer": "gps"
+    },
+    {
+      "question": "Wie lautet das dritte Wort im ersten Punkt?",
+      "answer": "passwort"
+    },
+    {
+      "question": "Welche Zahl steht im letzten Satz?",
+      "answer": "42"
+    },
+    {
+      "question": "Welche Farbe hat der Hinweis-Kasten?",
+      "answer": "gelb"
+    },
+    {
+      "question": "Welches Wort steht direkt vor 'APRS'?",
+      "answer": "die"
+    },
+    {
+      "question": "Wie lautet das erste Wort im Changelog?",
+      "answer": "neues"
+    },
+    {
+      "question": "Welche Farbe hat der Update-Button?",
+      "answer": "grün"
+    },
+    {
+      "question": "Wie viele Punkte hat die Liste?",
+      "answer": "4"
+    }
+  ]
+}
