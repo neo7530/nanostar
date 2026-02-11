@@ -1,11 +1,15 @@
 {
   "riddles": [
     {
-      "question": "Welches Wort steht im zweiten Absatz? Antwort: gps",
-      "answer": "gps"
+      "question": "Welches Programm wurde ausgetauscht?",
+      "answer": "TNYGPS"
     },
     {
-      "question": "Was ist Siebenhundertvierundvierzig geteilt durch Hosenknopp mal pi + Fensterkreuz?",
+      "question": "Wie ist das default-Passwort für die Anmeldung am nanostar-Dasboard mit dem Username Admin?",
+      "answer": "nanostar"
+    },
+    {
+      "question": "Was ist die Antwort auf die Frage nach dem Leben, dem Universum und dem ganzen Rest?",
       "answer": "42"
     }
   ]
