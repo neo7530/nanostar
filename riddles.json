@@ -9,6 +9,10 @@
       "answer": "nanostar"
     },
     {
+      "question": "Welches Versionsnummer trägt dieses Update?",
+      "answer": "1.0.49"
+    },
+    {
       "question": "Was ist die Antwort auf die Frage nach dem Leben, dem Universum und dem ganzen Rest?",
       "answer": "42"
     }
