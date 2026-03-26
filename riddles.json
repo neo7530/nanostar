@@ -2,19 +2,15 @@
   "riddles": [
     {
       "question": "Welches Programm wurde ausgetauscht?",
-      "answer": "TNYGPS"
+      "answer": "MMDVMHost"
     },
     {
       "question": "Wie ist das default-Passwort für die Anmeldung am nanostar-Dasboard mit dem Username Admin?",
       "answer": "nanostar"
     },
     {
-      "question": "Was wird ab jetzt jede Minute geprüft?",
-      "answer": "WLAN"
-    },
-    {
       "question": "Welches Versionsnummer trägt dieses Update?",
-      "answer": "1.0.49"
+      "answer": "1.0.50"
     },
     {
       "question": "Was ist die Antwort auf die Frage nach dem Leben, dem Universum und dem ganzen Rest?",
