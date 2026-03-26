@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.49",
-  "changelog": "BUGFIXES - Version 1.0.49\n\n-FIX: LTE-Stick start läuft jetzt sauber\n-GETAUSCHT: TNYGPS\n-UPDATE: TNYGPS-Setup-Seite überarbeitet\n-ADD: TNYGPS-Log eingebaut\n-UPDATE: GPS wird ausgeblendet, wenn Dienst nicht aktiv\n-ADD: APRS Live-Map\n-UPDATE: Login-Page mit DEUTLICHEM! Hinweis auf Default-Passwort mit der Bitte zum ändern\n-ADD: Copyright-Vermerk\n-NEW: WLAN wird jetzt jede Minute geprüft, bei Verlust der Verbindung wird der AP eingeschaltet.",
+  "latest": "1.0.50",
+  "changelog": "BUGFIXES - Version 1.0.50\n\n-UPDATE: MMDVMHost-speciale - Talker-Alias kann jetzt erzeugt werden Richtung Netz->HF\n\n\tDazu in der MMDVMHost.ini (Full-edit) unter [DMR] eine Zeile hinzufügen: GenerateTA=1\n\tmit GenerateTA=0 ist die Funktion abgeschaltet.",
 
   "channels": {
     "1.0": {
