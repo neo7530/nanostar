@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.51",
-  "changelog": "BUGFIXES - Version 1.0.51\n\n-BUGFIX: MMDVMHost-speciale (Duplex-Fix) - Talker-Alias kann jetzt erzeugt werden Richtung Netz->HF\n\n\tMMDVMHost.ini (Full-edit) unter [DMR] eine Zeile hinzufügen: GenerateTA=1\n\tmit GenerateTA=0 ist die Funktion abgeschaltet.\n\tMotorolaTA=1 erzeugt Motorola kompatiblen TA",
+  "latest": "1.1.0",
+  "changelog": "BUGFIXES - Version 1.1.0\n\nVorerst letztes Update.\n\n\t-Rebase Baseimage 1.1.0\n\t-BUGFIX: MMDVMHost\n\t-FIX: Talkeralias für Motorola\n\t-FIX: Nextion Display sollte nun gehen\n\n\nWünsche Euch allen Frohe Ostern!",
 
   "channels": {
     "1.0": {
